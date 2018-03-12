@@ -15,13 +15,14 @@ Write a program, which **displays information** about a video game character. Yo
 
 **Examples**
 
-|  Input | Output               |
-|:------:|----------------------|
-| Mayor  | Name: Mayro          |
-| 5      | Health: ||||||.....| |
-| 10     | Energy: ||||||||||.| |
-| 9      |                      |
-| 10     |                      |
+
+|  Input | Output                 |
+|:------:|------------------------|
+| Mayor  | Name: Mayro            |
+| 5      | Health: `||||||.....|` |
+| 10     | Energy: `||||||||||.|` |
+| 9      |                        |
+| 10     |                        |
 
 **Hints**
 
