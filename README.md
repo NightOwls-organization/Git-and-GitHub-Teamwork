@@ -3,7 +3,7 @@ SoftUni Git and GitHub - Teamwork Exercises
 
 # Problem 01 -> Debit Card Number #
 
-Write a program, which receives **4****integers** on the console and **prints them** in **4-digit debit card format**. See the examples below for the appropriate formatting.
+Write a program, which receives **4** **integers** on the console and **prints them** in **4-digit debit card format**. See the examples below for the appropriate formatting.
 
 **Examples**
 <table>
@@ -46,9 +46,7 @@ Write a program, which receives **4****integers** on the console and **prints th
 
 
 # Problem 03 -> Miles to Kilometers #
-Write a program, which **converts****miles** to **kilometers**. **Format** the output to the **2****
-
-nd**** decimal place**.
+Write a program, which **converts** **miles** to **kilometers**. **Format** the output to the **2** **nd** **decimal place**.
 
 Note: **1 mile == 1.60934 kilometers**
 
