@@ -5,9 +5,9 @@ class RecArea
     static void Main(string[] args)
     {
 	//Receiving the width from the console -> float
-        float width = float.Parse(Console.ReadLine());
+        float rectangleWidth = float.Parse(Console.ReadLine());
 	//Receiving the depth from the console -> float
-        float depth = float.Parse(Console.ReadLine());
+        float rectangleDepth = float.Parse(Console.ReadLine());
 
 	/* In the next line we calculate the 
 	 * rectangle area with the formula
