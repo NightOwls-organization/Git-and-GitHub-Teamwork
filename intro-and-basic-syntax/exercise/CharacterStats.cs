@@ -1,4 +1,5 @@
-﻿using System;
+﻿//CONFIRMED from <PeyoPeev>
+using System;
 
 namespace _05_CharacterStats
 {

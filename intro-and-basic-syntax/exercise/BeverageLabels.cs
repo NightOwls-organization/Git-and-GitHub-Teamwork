@@ -1,3 +1,4 @@
+//CONFIRMED from PeyoPeev
 using System;
 					
 public class BeverageLabels
