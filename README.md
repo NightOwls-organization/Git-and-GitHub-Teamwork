@@ -61,19 +61,37 @@ Note: **1 mile == 1.60934 kilometers**
 # Problem 04 -> Beverage Labels #
 
 Write a program, which calculates the energy and sugar content for a given product.
-	The input will be:				|		The print on the console has to be in the following format:
-- name of the food product			|	- volume of the packed product, suffixed by "ml" name of the food product
-- volume of the packed product		|	- energy content, suffixed by "kcal", sugar content, suffixed by "g"
-- energy content per 100ml			|	
-- sugar content per 100ml			|	
+	The input will be:		
+- name of the food product	
+- volume of the packed product	
+- energy content per 100ml	
+- sugar content per 100ml
+
+	The print on the console has to be in the following format:
+- volume of the packed product, suffixed by "ml" name of the food product
+- energy content, suffixed by "kcal", sugar content, suffixed by "g"
 
 **Examples**
 
-|	Input	|	Output				|
-| Nuka-Cola | 220ml Nuka-Cola:
-| 220		| 660kcal, 154g sugars
-| 300
-| 70
+<table>
+    <tr>
+        <td>Input</td>
+        <td>Output</td>
+    </tr>
+    <tr>
+        <td>
+            Nuka-Cola     <br>
+            220   		  <br>
+            300    		  <br>
+            70     		  <br>
+			 </td>
+        <td>
+			220ml Nuka-Cola:		<br>
+			660kcal, 154g sugars	<br>
+		</td>
+    </tr>    
+</table>
+
  
 
 # Problem 05 -> Character Stats #
