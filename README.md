@@ -131,7 +131,7 @@ Write a program, which **displays information** about a video game character. Yo
         </td>
     </tr>
 	
-	    <tr>
+<tr>
         <td>
             Loogi   <br>
             8       <br>
@@ -147,7 +147,7 @@ Write a program, which **displays information** about a video game character. Yo
 	
 
 	
-	    <tr>
+<tr>
         <td>
             Toad   <br>
             0       <br>
