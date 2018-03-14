@@ -4,11 +4,11 @@ public class DebitCardNumber
 {
 	public static void Main()
 	{
-		int numberOne = int.Parse(Console.ReadLine());
-		int numberTwo = int.Parse(Console.ReadLine());
-		int numberThree = int.Parse(Console.ReadLine());
-		int numberFour = int.Parse(Console.ReadLine());
+		int oneNumber = int.Parse(Console.ReadLine());
+		int twoNumber = int.Parse(Console.ReadLine());
+		int threeNumber = int.Parse(Console.ReadLine());
+		int fourNumber = int.Parse(Console.ReadLine());
 
-		System.Console.WriteLine($"{numberOne:D4} {numberTwo:D4} {numberThree:D4} {numberFour:D4}");
+		System.Console.WriteLine($"{oneNumber:D4} {twoNumber:D4} {threeNumber:D4} {fourNumber:D4}");
 	}
 }
