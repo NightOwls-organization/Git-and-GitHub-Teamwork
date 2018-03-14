@@ -117,8 +117,7 @@ Write a program, which **displays information** about a video game character. Yo
             Energy: ||||||||||.|<br>
         </td>
     </tr>
-	
-		    <tr>
+	<tr>
         <td>
             Bauser   <br>
             10       <br>
