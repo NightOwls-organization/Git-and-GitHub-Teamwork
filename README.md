@@ -99,15 +99,70 @@ Write a program, which calculates the energy and sugar content for a given produ
 Write a program, which **displays information** about a video game character. You will receive their **name**, **current health**, **maximum health**, **current energy** and **maximum energy **on separate lines. The **current** values will **always** be valid (**equal or lower** than their respective **max** values). Print them in the format as per the examples.
 
 **Examples**
+<table>
+    <tr>
+        <td>Input</td>
+        <td>Output</td>
+    </tr>
+    <tr>
+        <td>
+            Mayro   <br>
+            5       <br>
+            10      <br>
+            9       <br>
+            10      <br>
+        </td>
+        <td>Name: Mayro <br>
+            Health: ||||||.....|<br>
+            Energy: ||||||||||.|<br>
+        </td>
+    </tr>
+	
+		    <tr>
+        <td>
+            Bauser   <br>
+            10       <br>
+            10      <br>
+            10       <br>
+            10      <br>
+        </td>
+        <td>Name: Bauser <br>
+            Health: ||||||||||||<br>
+            Energy: ||||||||||||<br>
+        </td>
+    </tr>
+	
+	    <tr>
+        <td>
+            Loogi   <br>
+            8       <br>
+            20      <br>
+            2       <br>
+            14      <br>
+        </td>
+        <td>Name: Loogi <br>
+            Health: |||||||||............|<br>
+            Energy: |||............|<br>
+        </td>
+    </tr>
+	
 
-|  Input | Output                      |
-|:------:|-----------------------------|
-| Mayor  | Name: Mayro                 |
-| 5      | Health: <p>||||||.....|</p> |
-| 10     | Energy: <p>||||||||||.|</p> |
-| 9      |                             |
-| 10     |                             |
-
+	
+	    <tr>
+        <td>
+            Toad   <br>
+            0       <br>
+            5      <br>
+            0       <br>
+            10      <br>
+        </td>
+        <td>Name: Toad <br>
+            Health: |.....|<br>
+            Energy: |..........|<br>
+        </td>
+    </tr>
+	
+</table>
 
 **Hints**
 
