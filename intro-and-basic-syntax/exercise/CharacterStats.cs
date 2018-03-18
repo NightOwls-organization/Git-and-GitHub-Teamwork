@@ -8,7 +8,7 @@ namespace _05_CharacterStats
         static void Main(string[] args)
         {
             //Receiving the name from the console -> string
-            string name = Console.ReadLine();
+            string characterName = Console.ReadLine();
 	    /* In the next three lines, we recieve health,
 	     * healthMax, energy and energyMax as an
              * integer */
@@ -31,7 +31,7 @@ namespace _05_CharacterStats
 	     * on the console the name and
 	     * the concatenatet strings for 
 	     * currentHealth and currentEnergy*/
-            Console.WriteLine($"Name: {name}");
+            Console.WriteLine($"Name: {characterName}");
             Console.WriteLine($"Health: {currentHealth}");
             Console.WriteLine($"Energy: {currentEnergy}");
 
