@@ -46,12 +46,34 @@ Write a program, which calculates a **rectangle’s area**, based on its **width**
 on the console, **formatted to the 2nd character after the decimal point**.
 
 **Examples**
-
-| Input   | Output |
-|---------|--------|
-| 2 7     |  14.00 |
-| 7 8     |  56.00 |
-| 12.33 5 |  61.65 |
+<table>
+    <tr>
+        <td>Input</td>
+        <td>Output</td>
+    </tr>
+    <tr>
+        <td>
+            2     <br>
+            7     <br>
+            
+        </td>
+        <td>14.00</td>
+    </tr>
+    <tr>
+        <td>
+            7    <br>
+            8    <br>
+        </td>
+        <td>56.00</td>
+    </tr>
+    <tr>
+        <td>
+            12.33     <br>
+            5         <br>
+        </td>
+        <td>61.65</td>
+    </tr>
+</table>
 
 
 # Problem 03 -> Miles to Kilometers #
