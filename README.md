@@ -55,7 +55,6 @@ on the console, **formatted to the 2nd character after the decimal point**.
         <td>
             2     <br>
             7     <br>
-            
         </td>
         <td>14.00</td>
     </tr>
@@ -68,8 +67,8 @@ on the console, **formatted to the 2nd character after the decimal point**.
     </tr>
     <tr>
         <td>
-            12.33     <br>
-            5         <br>
+            12.33 <br>
+            5     <br>
         </td>
         <td>61.65</td>
     </tr>
