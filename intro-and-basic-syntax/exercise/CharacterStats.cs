@@ -1,4 +1,4 @@
-﻿//CONFIRMED from <PeyoPeev>
+﻿//CONFIRMED from DimitarApostolov
 using System;
 
 namespace _05_CharacterStats
