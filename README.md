@@ -46,11 +46,13 @@ Write a program, which calculates a **rectangle’s area**, based on its **width**
 on the console, **formatted to the 2nd character after the decimal point**.
 
 **Examples**
+
 | Input   | Output |
 |---------|--------|
 | 2 7     |  14.00 |
 | 7 8     |  56.00 |
 | 12.33 5 |  61.65 |
+
 
 # Problem 03 -> Miles to Kilometers #
 Write a program, which **converts** **miles** to **kilometers**. **Format** the output to the **2** **nd** **decimal place**.
